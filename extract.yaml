@@ -1,0 +1,6 @@
+tours:
+  css: "#displaytimer"
+  #right click / copy / selector path
+
+home:
+  css: "#temperatureId"
